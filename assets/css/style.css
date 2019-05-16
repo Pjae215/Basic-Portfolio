@@ -1,1 +1,54 @@
-/
+/**
+ * My Bio
+ **/
+
+ * {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: #777777
+  }
+  
+  body {background-color: #ffffff;
+    border-color: #dddddd;
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+    background:#ffffff;
+    border-color: black;
+  }
+  h2 {
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+    background:#ffffff;
+    border-color: black;
+  }
+  h3 {
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+    background:#ffffff;
+    border-color: black;
+  }
+  h4 {
+    float: left;
+    width: 33.3%;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+    background:#ffffff;
+    border-color: black;
+  }
+  footer {background-color: #666666;
+    border-color: black;
+}
+  
+  
